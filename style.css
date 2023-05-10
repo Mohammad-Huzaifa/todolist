@@ -1,0 +1,50 @@
+.update-controller{
+    display: none;
+}
+
+body {
+    background-image: url(img/Download\ premium\ psd\ _\ image\ of\ Hand\ drawn\ quill\ pen\ with\ an\ inkwell\ about\ pen\,\ etching\,\ vintage\ pen\,\ quill\,\ and\ ink\ 1200240.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    position: relative;
+}
+
+.app{
+    position: absolute;
+    left: 45%;
+}
+
+.app h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+#enter {
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 5px black;
+    margin-left: 16px;
+}
+
+#item {
+    margin-bottom: 16px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 5px black;
+    padding: 5px;
+}
+
+.item {
+    margin-bottom: 36px;
+}
+
+.edit-controller {
+    margin-bottom: 5px;
+}
+/* 
+.update-controller {
+    margin-bottom: 20px;
+} */
